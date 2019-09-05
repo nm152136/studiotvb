@@ -193,14 +193,19 @@ ul.cvarea li.btn_02 a{
   visibility: visible;
   opacity: 1;
 }
-#Nav_02 ul li ul.subNav span{
+#Nav_02 ul li ul.subNav li{
   display: block;
   width: 951px;
   margin:0 auto;
 }
-#Nav_02 ul li ul.subNav span > li {
+#Nav_02 ul li ul.subNav li > p {
   float: left;
   border-right:none;
+  line-height: 26px;
+  padding-right: 16px;
+  padding-left: 16px;
+  margin-top: 8px;
+  margin-bottom: 8px;
 }
 #Nav_02 ul li ul.subNav a{
   color: #fff;

@@ -5,7 +5,7 @@
 @media screen and (max-width: 480px){
 .pc{display: none;}
 .sp{display: inherit;}
-body{font-size: 12px;}
+body{font-size: 12px; overflow-x: hidden;}
 
 h2 {
   font-size: 24px;
